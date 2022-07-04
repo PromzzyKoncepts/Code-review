@@ -1,37 +1,73 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Code Review
+# Project Name
 
 > Description the project.
 
+
 ## Built With
 
-- HTML
-- CSS
+- Major languages
+- Frameworks
+- Technologies used
 
 ## Live Demo (if available)
 
-[Live Demo](https://livedemo.com)
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
 
 ## Authors
 
-👤 **Promise Okechukwu**
+👤 **Author1**
 
-- GitHub: [@Promise-Okechukwu](https://github.com/promzzykoncepts)
-- Twitter: [@Promzzy](https://twitter.com/promzzy)
-- LinkedIn: [Promise Okechukwu](https://linkedin.com/in/promiseokechukwu)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/PromzzyKoncepts/Code-review/issues).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-## Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [@Adebowale Victor](www.github.com/jheart-Vic) for using his commits to the repository
-- My Microverse Mentor
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
