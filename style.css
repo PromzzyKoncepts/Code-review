@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+  background-image:
+    linear-gradient(
+      115deg,
+      rgba(58, 58, 158, 0.8),
+      rgba(136, 136, 206, 0.7)
+    ),
+    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+  background-position: center;
+}
+
+#title {
+  text-align: center;
+  color: aliceblue;
+  font-size: 2rem;
+  margin-top: 50px;
+}
+
+#description {
+  text-align: center;
+  color: aliceblue;
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: lighter;
+  margin: 10px 0;
+}
+
+#survey-form {
+  width: 50%;
+  background-color: rgba(27, 27, 50, 0.8);
+  color: aliceblue;
+  margin: 0 auto;
+
+  /* margin: 0 auto; is used to centre */
+  padding: 10px;
+  border-radius: 5px;
+
+  /* border-radius: 5px; used to make the border edges curved */
+  display: block;
+}
+
+.div-form {
+  width: 100%;
+  margin: 10px 0;
+}
+
+#name,
+#email,
+#number,
+#text-area,
+#submit,
+select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.div-form > div > input {
+  /* .div-form > div > input{ used to locate a div/element within a div */
+  margin: 5px 5px 5px 0;
+}
+
+.div-form > div {
+  margin: 5px 0;
+}
+
+label > span {
+  font-size: 0.8rem;
+}
+
+#submit {
+  background-color: rgb(16, 169, 80);
+  color: #fff;
+  cursor: pointer;
+  border: none;
+}
+
+#submit:hover {
+  box-shadow: 0 0 8px black;
+}
